@@ -14,7 +14,8 @@ Class {
 }
 
 Comment {
-	fillColor:#FFFF88;
+	fillColor:#FFFFCC;
+ 	gradient:#FFFFEE vertical;
 }
 
 [appliedStereotypes~="Block"]{

@@ -315,13 +315,13 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_5QuNQTzKEei4xvOKoWb7ow" type="Class_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_5QuNQjzKEei4xvOKoWb7ow" y="5"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_5QuNQzzKEei4xvOKoWb7ow" type="Class_AttributeCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_5QuNQzzKEei4xvOKoWb7ow" visible="false" type="Class_AttributeCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_5QuNRDzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_5QuNRTzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_5QuNRjzKEei4xvOKoWb7ow"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5QuNRzzKEei4xvOKoWb7ow"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_5QuNSDzKEei4xvOKoWb7ow" type="Class_OperationCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_5QuNSDzKEei4xvOKoWb7ow" visible="false" type="Class_OperationCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_5QuNSTzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_5QuNSjzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_5QuNSzzKEei4xvOKoWb7ow"/>
@@ -345,7 +345,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Q0T5jzKEei4xvOKoWb7ow"/>
       </children>
       <children xmi:type="notation:Compartment" xmi:id="_5Q2wIDzKEei4xvOKoWb7ow" type="Flow Ports"/>
-      <children xmi:type="notation:Compartment" xmi:id="_5Q3XMDzKEei4xvOKoWb7ow" type="constraints"/>
+      <children xmi:type="notation:Compartment" xmi:id="_5Q3XMDzKEei4xvOKoWb7ow" visible="false" type="constraints"/>
       <children xmi:type="notation:Compartment" xmi:id="_5Q3XMTzKEei4xvOKoWb7ow" type="Parts"/>
       <children xmi:type="notation:Compartment" xmi:id="_5Q3XMjzKEei4xvOKoWb7ow" type="Proxy Ports"/>
       <children xmi:type="notation:Compartment" xmi:id="_5Q3XMzzKEei4xvOKoWb7ow" type="Full Ports"/>
@@ -368,13 +368,13 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_7VwAEzzKEei4xvOKoWb7ow" type="Class_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_7VwAFDzKEei4xvOKoWb7ow" y="5"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_7VwAFTzKEei4xvOKoWb7ow" type="Class_AttributeCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_7VwAFTzKEei4xvOKoWb7ow" visible="false" type="Class_AttributeCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_7VwAFjzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_7VwAFzzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_7VwAGDzKEei4xvOKoWb7ow"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7VwAGTzKEei4xvOKoWb7ow"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_7VwAGjzKEei4xvOKoWb7ow" type="Class_OperationCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_7VwAGjzKEei4xvOKoWb7ow" visible="false" type="Class_OperationCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_7VwAGzzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_7VwAHDzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_7VwAHTzKEei4xvOKoWb7ow"/>
@@ -398,7 +398,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7V04ljzKEei4xvOKoWb7ow"/>
       </children>
       <children xmi:type="notation:Compartment" xmi:id="_7V1fojzKEei4xvOKoWb7ow" type="Flow Ports"/>
-      <children xmi:type="notation:Compartment" xmi:id="_7V1fozzKEei4xvOKoWb7ow" type="constraints"/>
+      <children xmi:type="notation:Compartment" xmi:id="_7V1fozzKEei4xvOKoWb7ow" visible="false" type="constraints"/>
       <children xmi:type="notation:Compartment" xmi:id="_7V1fpDzKEei4xvOKoWb7ow" type="Parts"/>
       <children xmi:type="notation:Compartment" xmi:id="_7V2GsDzKEei4xvOKoWb7ow" type="Proxy Ports"/>
       <children xmi:type="notation:Compartment" xmi:id="_7V2GsTzKEei4xvOKoWb7ow" type="Full Ports"/>
@@ -421,13 +421,13 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_8wSEYzzKEei4xvOKoWb7ow" type="Class_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_8wSEZDzKEei4xvOKoWb7ow" y="5"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_8wSEZTzKEei4xvOKoWb7ow" type="Class_AttributeCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_8wSEZTzKEei4xvOKoWb7ow" visible="false" type="Class_AttributeCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_8wSEZjzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_8wSEZzzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_8wSEaDzKEei4xvOKoWb7ow"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8wSEaTzKEei4xvOKoWb7ow"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_8wSEajzKEei4xvOKoWb7ow" type="Class_OperationCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_8wSEajzKEei4xvOKoWb7ow" visible="false" type="Class_OperationCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_8wSEazzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_8wSEbDzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_8wSEbTzKEei4xvOKoWb7ow"/>
@@ -451,7 +451,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8wXj9jzKEei4xvOKoWb7ow"/>
       </children>
       <children xmi:type="notation:Compartment" xmi:id="_8wYLADzKEei4xvOKoWb7ow" type="Flow Ports"/>
-      <children xmi:type="notation:Compartment" xmi:id="_8wYLATzKEei4xvOKoWb7ow" type="constraints"/>
+      <children xmi:type="notation:Compartment" xmi:id="_8wYLATzKEei4xvOKoWb7ow" visible="false" type="constraints"/>
       <children xmi:type="notation:Compartment" xmi:id="_8wYyEDzKEei4xvOKoWb7ow" type="Parts"/>
       <children xmi:type="notation:Compartment" xmi:id="_8wYyETzKEei4xvOKoWb7ow" type="Proxy Ports"/>
       <children xmi:type="notation:Compartment" xmi:id="_8wYyEjzKEei4xvOKoWb7ow" type="Full Ports"/>

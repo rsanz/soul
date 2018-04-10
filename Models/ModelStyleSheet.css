@@ -1,0 +1,31 @@
+* {
+    shadow:false;
+/*  fontName:"Monaco"; */
+	fontHeight:10;
+/* 	fillColor:#C3D7DD; */
+	fillColor:#DDD7C3;
+	transparency:0;
+ 	gradient:#FFFFFF vertical;
+	lineColor:#000000;
+}
+
+Class {
+	elementIcon:false;
+}
+
+[appliedStereotypes~="Block"]{
+    bold:true;
+	lineWidth:2px;
+}
+
+[appliedStereotypes~="Requirement"]{
+    bold:true;
+	lineWidth:2px;
+}
+
+Package {
+    bold:true;
+	lineWidth:1px;
+}
+
+

@@ -13,6 +13,10 @@ Class {
 	elementIcon:false;
 }
 
+Comment {
+	fillColor:#FFFF88;
+}
+
 [appliedStereotypes~="Block"]{
     bold:true;
 	lineWidth:2px;

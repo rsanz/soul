@@ -213,7 +213,7 @@
     </edges>
   </notation:Diagram>
   <css:ModelStyleSheets xmi:id="_lKyPMDzJEei4xvOKoWb7ow">
-    <stylesheets xmi:type="css:StyleSheetReference" xmi:id="_lKy2QDzJEei4xvOKoWb7ow" path="/SOUL/Models/ModelStyleSheet.css"/>
+    <stylesheets xmi:type="css:StyleSheetReference" xmi:id="_FCRWMD1vEeiJr7n3WM4NDA" path="/SOUL/SOULmodel/ModelStyleSheet.css"/>
   </css:ModelStyleSheets>
   <notation:Diagram xmi:id="_g73iQDzKEei4xvOKoWb7ow" type="PapyrusUMLClassDiagram" name="SOUL Packages" measurementUnit="Pixel">
     <children xmi:type="notation:Shape" xmi:id="_hmHZIDzKEei4xvOKoWb7ow" type="Package_Shape">

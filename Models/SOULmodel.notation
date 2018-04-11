@@ -353,7 +353,7 @@
       <children xmi:type="notation:Compartment" xmi:id="_5Q3-QDzKEei4xvOKoWb7ow" type="Flow Properties"/>
       <children xmi:type="notation:Compartment" xmi:id="_5Q3-QTzKEei4xvOKoWb7ow" type="Parameters"/>
       <element xmi:type="uml:Class" href="SOULmodel.uml#_5QY2EDzKEei4xvOKoWb7ow"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5QtmMTzKEei4xvOKoWb7ow" x="100" y="60" width="181" height="101"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5QtmMTzKEei4xvOKoWb7ow" x="100" y="60" width="161" height="81"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_5Q4lUDzKEei4xvOKoWb7ow" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_5Q4lUTzKEei4xvOKoWb7ow"/>
@@ -406,7 +406,7 @@
       <children xmi:type="notation:Compartment" xmi:id="_7V2GszzKEei4xvOKoWb7ow" type="Flow Properties"/>
       <children xmi:type="notation:Compartment" xmi:id="_7V2twDzKEei4xvOKoWb7ow" type="Parameters"/>
       <element xmi:type="uml:Class" href="SOULmodel.uml#_7VdFIDzKEei4xvOKoWb7ow"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7VwAETzKEei4xvOKoWb7ow" x="100" y="220" width="181" height="101"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7VwAETzKEei4xvOKoWb7ow" x="100" y="180" width="161" height="81"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_7V3U0zzKEei4xvOKoWb7ow" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_7V3U1DzKEei4xvOKoWb7ow"/>
@@ -459,7 +459,7 @@
       <children xmi:type="notation:Compartment" xmi:id="_8wYyFDzKEei4xvOKoWb7ow" type="Flow Properties"/>
       <children xmi:type="notation:Compartment" xmi:id="_8wYyFTzKEei4xvOKoWb7ow" type="Parameters"/>
       <element xmi:type="uml:Class" href="SOULmodel.uml#_8v_wgDzKEei4xvOKoWb7ow"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8wSEYTzKEei4xvOKoWb7ow" x="100" y="400" width="181" height="101"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8wSEYTzKEei4xvOKoWb7ow" x="100" y="300" width="161" height="81"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_8wYyGTzKEei4xvOKoWb7ow" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_8wYyGjzKEei4xvOKoWb7ow"/>
@@ -474,13 +474,13 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_-hPrszzKEei4xvOKoWb7ow" type="Class_FloatingNameLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_-hPrtDzKEei4xvOKoWb7ow" y="5"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_-hPrtTzKEei4xvOKoWb7ow" type="Class_AttributeCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_-hPrtTzKEei4xvOKoWb7ow" visible="false" type="Class_AttributeCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_-hPrtjzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_-hPrtzzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_-hPruDzKEei4xvOKoWb7ow"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-hPruTzKEei4xvOKoWb7ow"/>
       </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_-hPrujzKEei4xvOKoWb7ow" type="Class_OperationCompartment">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_-hPrujzKEei4xvOKoWb7ow" visible="false" type="Class_OperationCompartment">
         <styles xmi:type="notation:TitleStyle" xmi:id="_-hPruzzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_-hPrvDzKEei4xvOKoWb7ow"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_-hPrvTzKEei4xvOKoWb7ow"/>
@@ -504,7 +504,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-hUkNjzKEei4xvOKoWb7ow"/>
       </children>
       <children xmi:type="notation:Compartment" xmi:id="_-hVLQDzKEei4xvOKoWb7ow" type="Flow Ports"/>
-      <children xmi:type="notation:Compartment" xmi:id="_-hVLQTzKEei4xvOKoWb7ow" type="constraints"/>
+      <children xmi:type="notation:Compartment" xmi:id="_-hVLQTzKEei4xvOKoWb7ow" visible="false" type="constraints"/>
       <children xmi:type="notation:Compartment" xmi:id="_-hVLQjzKEei4xvOKoWb7ow" type="Parts"/>
       <children xmi:type="notation:Compartment" xmi:id="_-hVLQzzKEei4xvOKoWb7ow" type="Proxy Ports"/>
       <children xmi:type="notation:Compartment" xmi:id="_-hVLRDzKEei4xvOKoWb7ow" type="Full Ports"/>
@@ -512,7 +512,7 @@
       <children xmi:type="notation:Compartment" xmi:id="_-hVyUTzKEei4xvOKoWb7ow" type="Flow Properties"/>
       <children xmi:type="notation:Compartment" xmi:id="_-hVyUjzKEei4xvOKoWb7ow" type="Parameters"/>
       <element xmi:type="uml:Class" href="SOULmodel.uml#_-g9-4DzKEei4xvOKoWb7ow"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-hPrsTzKEei4xvOKoWb7ow" x="100" y="580" width="181" height="101"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-hPrsTzKEei4xvOKoWb7ow" x="100" y="420" width="161" height="81"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_-hVyVjzKEei4xvOKoWb7ow" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_-hVyVzzKEei4xvOKoWb7ow"/>

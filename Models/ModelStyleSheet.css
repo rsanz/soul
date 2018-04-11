@@ -3,9 +3,10 @@
 * {
     shadow:false;
 /*  fontName:"Monaco"; */
+	font:Monaco;
 	fontHeight:10;
-/* 	fillColor:#C3D7DD; */
-	fillColor:#DDD7C3;
+/* 	fillColor:#C3D7DD;  */ /* Light blue */
+	fillColor:#DDD7C3;  /* Beige */
 	transparency:0;
  	gradient:#FFFFFF vertical;
 	lineColor:#000000;

@@ -1,3 +1,5 @@
+/* https://wiki.eclipse.org/MDT/Papyrus/UserGuide/CSS#Introduction */
+
 * {
     shadow:false;
 /*  fontName:"Monaco"; */
@@ -27,5 +29,3 @@ Package {
     bold:true;
 	lineWidth:1px;
 }
-
-

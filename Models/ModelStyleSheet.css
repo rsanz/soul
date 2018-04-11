@@ -15,6 +15,11 @@ Class {
 	elementIcon:false;
 }
 
+Comment {
+	fillColor:#FFFFCC;
+ 	gradient:#FFFFEE vertical;
+}
+
 [appliedStereotypes~="Block"]{
     bold:true;
 	lineWidth:2px;

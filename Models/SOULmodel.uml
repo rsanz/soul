@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks" xmlns:Requirements="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML#//blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements http://www.eclipse.org/papyrus/sysml/1.4/SysML#//requirements">
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ASys="http:///schemas/ASys/_5BP9UD0LEeiPFICft4HbJg/1" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks" xmlns:Requirements="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/ASys/_5BP9UD0LEeiPFICft4HbJg/1 ../../ASys/ASys.profile.uml#_5BTnsD0LEeiPFICft4HbJg http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML#//blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements http://www.eclipse.org/papyrus/sysml/1.4/SysML#//requirements">
   <uml:Model xmi:id="_ky2XsDzGEei4xvOKoWb7ow" name="SOUL">
     <packageImport xmi:type="uml:PackageImport" xmi:id="_k_KVYDzGEei4xvOKoWb7ow">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
@@ -93,6 +93,19 @@
       </eAnnotations>
       <appliedProfile xmi:type="uml:Profile" href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
     </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_IQJwcD0MEeiPFICft4HbJg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_IQhj4D0MEeiPFICft4HbJg" source="PapyrusVersion">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IQhj4T0MEeiPFICft4HbJg" key="Version" value="0.0.2"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IQhj4j0MEeiPFICft4HbJg" key="Comment" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IQhj4z0MEeiPFICft4HbJg" key="Copyright" value="(C) 2018 rsanz.com"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IQhj5D0MEeiPFICft4HbJg" key="Date" value="2018-04-11"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IQhj5T0MEeiPFICft4HbJg" key="Author" value="Ricardo Sanz"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_IQLloD0MEeiPFICft4HbJg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="../../ASys/ASys.profile.uml#_5BTnsD0LEeiPFICft4HbJg"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="../../ASys/ASys.profile.uml#_oJ-6sD0KEeiPFICft4HbJg"/>
+    </profileApplication>
   </uml:Model>
   <Requirements:Requirement xmi:id="_wP97QDzGEei4xvOKoWb7ow" base_Class="_wPsOcDzGEei4xvOKoWb7ow" id="R-0" text="Build the SOUL system to be used in the engineering of autonomous systems of any kind."/>
   <Requirements:Requirement xmi:id="_AkFC8DzHEei4xvOKoWb7ow" base_Class="_Aj9HIDzHEei4xvOKoWb7ow" id="R1" text="SOUL shall be applicable to any kind of autonomous system."/>
@@ -102,4 +115,7 @@
   <Blocks:Block xmi:id="_7ViksDzKEei4xvOKoWb7ow" base_Class="_7VdFIDzKEei4xvOKoWb7ow"/>
   <Blocks:Block xmi:id="_8wEpADzKEei4xvOKoWb7ow" base_Class="_8v_wgDzKEei4xvOKoWb7ow"/>
   <Blocks:Block xmi:id="_-hDecDzKEei4xvOKoWb7ow" base_Class="_-g9-4DzKEei4xvOKoWb7ow"/>
+  <ASys:Concept xmi:id="_TDy5MD0MEeiPFICft4HbJg" base_Class="_7VdFIDzKEei4xvOKoWb7ow"/>
+  <ASys:Concept xmi:id="_XF1yUD0MEeiPFICft4HbJg" base_Class="_5QY2EDzKEei4xvOKoWb7ow"/>
+  <ASys:Concept xmi:id="_ZL3qsD0MEeiPFICft4HbJg" base_Class="_8v_wgDzKEei4xvOKoWb7ow"/>
 </xmi:XMI>

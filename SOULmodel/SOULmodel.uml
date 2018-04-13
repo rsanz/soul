@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ASys="http:///schemas/ASys/_5BP9UD0LEeiPFICft4HbJg/1" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks" xmlns:Requirements="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/ASys/_5BP9UD0LEeiPFICft4HbJg/1 ../../ASys/ASys.profile.uml#_5BTnsD0LEeiPFICft4HbJg http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML#//blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements http://www.eclipse.org/papyrus/sysml/1.4/SysML#//requirements">
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ASys="http:///schemas/ASys/_5BP9UD0LEeiPFICft4HbJg/1" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks" xmlns:Requirements="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/ASys/_5BP9UD0LEeiPFICft4HbJg/1 ../../ASys/models/ASysProfile/ASys.profile.uml#_5BTnsD0LEeiPFICft4HbJg http://www.eclipse.org/papyrus/sysml/1.4/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML#//blocks http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements http://www.eclipse.org/papyrus/sysml/1.4/SysML#//requirements">
   <uml:Model xmi:id="_ky2XsDzGEei4xvOKoWb7ow" name="SOUL">
     <packageImport xmi:type="uml:PackageImport" xmi:id="_k_KVYDzGEei4xvOKoWb7ow">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
@@ -105,6 +105,12 @@
         <references xmi:type="ecore:EPackage" href="../../ASys/ASys.profile.uml#_5BTnsD0LEeiPFICft4HbJg"/>
       </eAnnotations>
       <appliedProfile xmi:type="uml:Profile" href="../../ASys/ASys.profile.uml#_oJ-6sD0KEeiPFICft4HbJg"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_s3rZUD8BEeimCKzQ6i-4OQ">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_s30jQD8BEeimCKzQ6i-4OQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="../../ASys/models/ASysProfile/ASys.profile.uml#_5BTnsD0LEeiPFICft4HbJg"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="../../ASys/models/ASysProfile/ASys.profile.uml#_oJ-6sD0KEeiPFICft4HbJg"/>
     </profileApplication>
   </uml:Model>
   <Requirements:Requirement xmi:id="_wP97QDzGEei4xvOKoWb7ow" base_Class="_wPsOcDzGEei4xvOKoWb7ow" id="R-0" text="Build the SOUL system to be used in the engineering of autonomous systems of any kind."/>
